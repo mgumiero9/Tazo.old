@@ -1,4 +1,4 @@
-package com.firebase.uidemo.auth;
+package space.tazo.tazo.auth;
 
 import android.app.Application;
 import android.content.Context;

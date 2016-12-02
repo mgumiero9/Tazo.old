@@ -1,4 +1,4 @@
-package com.firebase.uidemo.storage;
+package space.tazo.tazo.storage;
 
 import android.Manifest;
 import android.content.Intent;

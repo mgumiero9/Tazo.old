@@ -7,8 +7,8 @@
         android:shortcutShortLabel="@string/name_image">
         <intent
             android:action="android.intent.action.VIEW"
-            android:targetPackage="com.firebase.uidemo"
-            android:targetClass="com.firebase.uidemo.storage.ImageActivity"/>
+            android:targetPackage="space.tazo.tazo"
+            android:targetClass="space.tazo.tazo.storage.ImageActivity"/>
     </shortcut>
 
     <shortcut
@@ -18,8 +18,8 @@
         android:shortcutShortLabel="@string/name_auth_ui">
         <intent
             android:action="android.intent.action.VIEW"
-            android:targetPackage="com.firebase.uidemo"
-            android:targetClass="com.firebase.uidemo.auth.AuthUiActivity"/>
+            android:targetPackage="space.tazo.tazo"
+            android:targetClass="space.tazo.tazo.auth.AuthUiActivity"/>
     </shortcut>
 
     <shortcut
@@ -29,7 +29,7 @@
         android:shortcutShortLabel="@string/name_chat">
         <intent
             android:action="android.intent.action.VIEW"
-            android:targetPackage="com.firebase.uidemo"
-            android:targetClass="com.firebase.uidemo.database.ChatActivity"/>
+            android:targetPackage="space.tazo.tazo"
+            android:targetClass="space.tazo.tazo.database.ChatActivity"/>
     </shortcut>
 </shortcuts>

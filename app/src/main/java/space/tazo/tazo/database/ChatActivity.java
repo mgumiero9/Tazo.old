@@ -12,7 +12,7 @@
  * limitations under the License.
  */
 
-package com.firebase.uidemo.database;
+package space.tazo.tazo.database;
 
 import android.graphics.PorterDuff;
 import android.graphics.drawable.GradientDrawable;

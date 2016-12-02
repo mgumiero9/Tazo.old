@@ -12,7 +12,7 @@
  * limitations under the License.
  */
 
-package com.firebase.uidemo.auth;
+package space.tazo.tazo.auth;
 
 import android.content.Context;
 import android.content.DialogInterface;

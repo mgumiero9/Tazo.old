@@ -12,7 +12,7 @@
  * limitations under the License.
  */
 
-package com.firebase.uidemo;
+package space.tazo.tazo;
 
 import android.content.Context;
 import android.content.Intent;
@@ -24,14 +24,14 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
-
-import com.firebase.uidemo.auth.AuthUiActivity;
-import com.firebase.uidemo.database.ChatActivity;
-import com.firebase.uidemo.storage.ImageActivity;
+//import space.tazo.tazo.R;
+import space.tazo.tazo.auth.AuthUiActivity;
+import space.tazo.tazo.storage.ImageActivity;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnItemClick;
+import space.tazo.tazo.database.ChatActivity;
 
 public class ChooserActivity extends AppCompatActivity {
 
